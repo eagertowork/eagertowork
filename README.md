@@ -21,46 +21,21 @@ I am interested in building reliable software, understanding systems beyond the 
 
 ## Engineering Focus
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
 
-### Backend
+| ⚙️ Backend Engineering | 🧠 AI Infrastructure | 🐧 Linux & Systems |
+|:---:|:---:|:---:|
+| REST APIs | LLM Serving | Linux Administration |
+| Django REST Framework | RAG Systems | Docker & Bash |
+| PostgreSQL | vLLM & LlamaIndex | OpenBMC |
+| Authentication | Embeddings | TCP/IP & TLS |
+| Software Architecture | Inference Monitoring | System Performance |
 
-`Python`  
-`Django REST Framework`  
-`PostgreSQL`  
-`REST APIs`  
-`Authentication`  
-`Data Modeling`
+<br>
 
-</td>
-<td width="33%" valign="top">
+<img src="https://skillicons.dev/icons?i=python,django,postgres,pytorch,linux,bash,docker,git" alt="Core engineering technologies" />
 
-### AI Infrastructure
-
-`vLLM`  
-`RAG`  
-`LlamaIndex`  
-`Embeddings`  
-`Local LLM Serving`  
-`Inference Monitoring`
-
-</td>
-<td width="33%" valign="top">
-
-### Linux & Systems
-
-`Linux`  
-`Docker`  
-`Bash`  
-`Git`  
-`OpenBMC`  
-`TCP/IP & TLS`
-
-</td>
-</tr>
-</table>
+</div>
 
 ## Languages & Tools
 
