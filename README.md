@@ -1,62 +1,95 @@
-<h1 align="center">Javad Zare Zadegan</h1>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Backend+%7C+AI+%7C+Linux+Systems;Building+Reliable+and+Intelligent+Software"
-    alt="Typing animation"
+<img src="./assets/terminal.svg" width="100%" alt="Javad Zare Zadegan — Backend, AI and Linux Systems" />
+
+<br>
+
+<a href="mailto:javad.zare.z05@gmail.com">
+  <img src="https://img.shields.io/badge/Email-javad.zare.z05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/JZZMATH">
+  <img src="https://img.shields.io/badge/Telegram-JZZMATH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+</div>
+
+## About
+
+Computer Engineering undergraduate at **Shahid Beheshti University**, focused on the intersection of **backend engineering, AI infrastructure, and Linux systems**.
+
+I am interested in building reliable software, understanding systems beyond the application layer, and working with technologies related to APIs, databases, LLM serving, networking, containers, and embedded Linux.
+
+## Engineering Focus
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Backend
+
+`Python`  
+`Django REST Framework`  
+`PostgreSQL`  
+`REST APIs`  
+`Authentication`  
+`Data Modeling`
+
+</td>
+<td width="33%" valign="top">
+
+### AI Infrastructure
+
+`vLLM`  
+`RAG`  
+`LlamaIndex`  
+`Embeddings`  
+`Local LLM Serving`  
+`Inference Monitoring`
+
+</td>
+<td width="33%" valign="top">
+
+### Linux & Systems
+
+`Linux`  
+`Docker`  
+`Bash`  
+`Git`  
+`OpenBMC`  
+`TCP/IP & TLS`
+
+</td>
+</tr>
+</table>
+
+## Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,cpp,c,java,linux,bash,docker,git,github&perline=11" alt="Languages and development tools" />
+
+</div>
+
+## Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/eagertowork/eagertowork/output/github-contribution-grid-snake-dark.svg"
   />
-</p>
-
-<p align="center">
-  Computer Engineering undergraduate at <strong>Shahid Beheshti University</strong>,
-  focused on backend engineering, AI infrastructure, and Linux-based systems.
-</p>
-
-<p align="center">
-  <a href="mailto:javad.zare.z05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/JZZMATH">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
----
-
-### Technical Focus
-
-- Backend development and REST API design
-- LLM serving, RAG, and AI infrastructure
-- Linux, Docker, networking, and embedded systems
-- Reliable, maintainable, and performance-oriented software
-
-### Technologies
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,django,postgres,cpp,c,java,linux,bash,docker,git,github"
-    alt="Technical skills"
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/eagertowork/eagertowork/output/github-contribution-grid-snake.svg"
   />
-</p>
-
-<p align="center">
-  <code>Python</code>
-  <code>Django REST Framework</code>
-  <code>PostgreSQL</code>
-  <code>vLLM</code>
-  <code>RAG</code>
-  <code>OpenBMC</code>
-</p>
-
----
-
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=eagertowork&show_icons=true&hide_border=true&hide_title=true"
-    alt="GitHub statistics"
+    width="100%"
+    alt="GitHub contribution animation"
+    src="https://raw.githubusercontent.com/eagertowork/eagertowork/output/github-contribution-grid-snake.svg"
   />
-</p>
+</picture>
 
-<p align="center">
-  <i>Building reliable software and understanding systems in depth.</i>
-</p>
+<div align="center">
+
+<sub>Building reliable software and understanding systems in depth.</sub>
+
+</div>
