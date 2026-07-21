@@ -1,16 +1,22 @@
 <h1 align="center">Hi, I'm Javad 👋</h1>
 
-<h3 align="center">Computer Engineering Student | AI, Systems & Security Enthusiast</h3>
+<p align="center">
+  <strong>Computer Engineering Student | Backend & AI Software Engineering</strong>
+</p>
 
 <p align="center">
-  <a href="https://github.com/eagertowork">
-    <img src="https://komarev.com/ghpvc/?username=eagertowork&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/eagertowork?tab=followers">
-    <img src="https://img.shields.io/github/followers/eagertowork?label=Followers&style=flat&logo=github" alt="GitHub followers" />
+  I build backend applications, AI-powered systems, and Linux-based software.
+</p>
+
+<p align="center">
+  <a href="mailto:javad.zare.z05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/JZZMATH">
-    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/eagertowork?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github&logoColor=white" alt="GitHub projects" />
   </a>
 </p>
 
@@ -18,151 +24,199 @@
 
 ## About Me
 
-I'm a Computer Engineering student at **Shahid Beheshti University**, interested in building practical software and understanding how intelligent systems, networks, and secure infrastructures work under the hood.
+I am a Computer Engineering undergraduate at **Shahid Beheshti University**, interested in backend development, AI infrastructure, and Linux-based systems.
 
-My main interests include:
+I enjoy building practical projects that combine software engineering fundamentals with areas such as REST APIs, relational databases, LLM serving, retrieval-augmented generation, and system monitoring.
 
-* Artificial Intelligence and Machine Learning
-* LLM inference and optimization
-* Computer Networks and TLS
-* Linux, systems, and performance-oriented engineering
-* Security fundamentals and secure infrastructure
+My current goal is to grow as a **backend or AI software engineer** by contributing to real products, working with experienced engineers, and continuously improving the quality, reliability, and maintainability of my code.
 
-I enjoy learning through hands-on projects, technical experimentation, and building tools that connect theory with real-world engineering problems.
-
----
-
-## Current Focus
-
-* Improving my understanding of **LLM serving and inference optimization**
-* Building stronger foundations in **machine learning and deep learning**
-* Studying **networking, TLS, Linux, and security concepts**
-* Writing cleaner, more maintainable, and better-documented code
-* Growing my open-source portfolio with practical engineering projects
+- 🔭 Currently working with backend, AI, and embedded Linux technologies
+- 🌱 Learning more about system design, testing, databases, deployment, and scalable AI services
+- 💼 Open to internship and junior software engineering opportunities
+- 📍 Based in Tehran, Iran
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart,flutter,linux,git,github,docker,js,html,css" />
+### Backend and AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,git,github" alt="Backend and AI technologies" />
 </p>
 
-### Technical Areas
+- Python
+- Django and Django REST Framework
+- PostgreSQL and relational data modeling
+- REST API design
+- Authentication and role-based access
+- vLLM and local LLM serving
+- Retrieval-Augmented Generation
+- LlamaIndex and embedding-based retrieval
+- OpenAI-compatible APIs
+- Docker and Linux development environments
 
-| Area                 | Skills & Interests                                                            |
-| -------------------- | ----------------------------------------------------------------------------- |
-| AI / ML              | Machine learning, deep learning fundamentals, LLM inference, RAG systems      |
-| Systems              | Linux, Docker fundamentals, performance optimization, local model serving     |
-| Networking           | TCP/IP, TLS, network fundamentals, secure communication                       |
-| Software Development | Python, C/C++, Java, Dart, Flutter, Git, GitHub                               |
-| Security             | Cybersecurity fundamentals, secure infrastructure, practical network security |
+### Additional Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,dart,flutter,js,html,css" alt="Additional technologies" />
+</p>
+
+- C and C++
+- Java
+- Dart and Flutter
+- JavaScript, HTML, and CSS
+- Git and collaborative development workflows
+- TCP/IP, TLS, and networking fundamentals
+- OpenBMC and embedded Linux fundamentals
 
 ---
 
 ## Featured Projects
 
-### vLLM Optimization Project
+### Ravi — Personalized Travel Planning Platform
 
-**Repository:** [eagertowork/vLLM_Optimization](https://github.com/eagertowork/vLLM_Optimization)
+**Private team project** · Django REST Framework · PostgreSQL · REST APIs
 
-A practical AI engineering project focused on exploring **vLLM capabilities for optimizing inference in Large Language Models**.
+Ravi is a web-based platform that generates personalized and editable travel plans based on a user's destination, budget, trip duration, group size, and interests.
 
-Key highlights:
+I worked in a five-person software engineering team on areas including:
 
-* Local LLM serving using **vLLM**
-* RAG-style workflow over documentation
-* LlamaIndex and HuggingFace embedding-based retrieval
-* OpenAI-compatible local serving workflow
-* Concurrency and system monitoring experiments
+- Backend architecture and REST API design
+- User authentication and role-based access
+- Relational data models for users, cities, places, categories, itineraries, and ratings
+- Place recommendation and daily itinerary generation
+- Saving, retrieving, and editing travel plans
+- Frontend and backend integration
+- Testing, API documentation, and Docker-based setup
 
-This project reflects my interest in practical AI infrastructure, LLM performance, and production-style AI engineering pipelines.
-
----
-
-### Decision Tree Application
-
-**Repository:** [eagertowork/decision-tree](https://github.com/eagertowork/decision-tree)
-
-An application based on a **decision-tree algorithm** designed to help users choose a programming language that best fits their needs.
-
-Key highlights:
-
-* Uses decision-tree logic for recommendation
-* Connects algorithmic thinking with a practical user-facing idea
-* Demonstrates early work with AI/data-oriented problem solving
+The codebase is private because it was developed as a collaborative university software engineering project.
 
 ---
 
-### Personal Blog
+### [vLLM Optimization and RAG System](https://github.com/eagertowork/vLLM_Optimization)
 
-**Repository:** [eagertowork/eagertowork.github.io](https://github.com/eagertowork/eagertowork.github.io)
+Python · vLLM · LlamaIndex · RAG · Linux
 
-A personal GitHub Pages blog project used for experimenting with technical writing, web publishing, and sharing learning progress.
+A practical AI engineering project exploring local LLM serving, retrieval, concurrency, and system-level monitoring.
 
-Key highlights:
+Key components include:
 
-* GitHub Pages-based personal site
-* Blog-style structure
-* Useful for documenting projects, notes, and technical learning
+- Local model serving with vLLM
+- OpenAI-compatible inference APIs
+- Documentation ingestion and preprocessing
+- Semantic retrieval using LlamaIndex and Hugging Face embeddings
+- Retrieval-Augmented Generation over technical documentation
+- Tool routing between retrieval and external search
+- Concurrent request experiments
+- CPU, RAM, GPU, VRAM, temperature, and power monitoring
 
----
-
-### Vercel XHTTP Relay
-
-**Repository:** [eagertowork/Vercel-XHTTP](https://github.com/eagertowork/Vercel-XHTTP)
-
-A forked networking-related project focused on XHTTP relay deployment using Vercel Edge Functions.
-
-Key highlights:
-
-* Practical exposure to deployment workflows
-* Networking and relay architecture concepts
-* Persian setup/documentation focus
-* Useful for understanding infrastructure, edge deployment, and network routing concepts
+This project reflects my interest in building AI systems beyond model usage, including serving infrastructure, retrieval pipelines, observability, and performance-aware engineering.
 
 ---
 
-## Other Academic & Learning Projects
+### OpenBMC Customization
 
-Alongside my public GitHub repositories, I have also worked on academic and learning projects such as:
+OpenBMC · Embedded Linux · Linux · Git
 
-* **Zoorkhaneh Game** — Python, Pygame, Genetic Algorithm
-* **Student Management System** — Flutter and Java
-* **Snake Game** — C++
+An ongoing systems project focused on understanding and customizing Linux-based firmware used for server hardware management.
 
-These projects helped strengthen my programming fundamentals, problem-solving ability, and understanding of application structure.
+Areas of exploration include:
+
+- OpenBMC build and configuration workflows
+- Embedded Linux and firmware architecture
+- Hardware-management services
+- U-Boot, BSP, and boot-process concepts
+- Debugging system-level configuration and build issues
 
 ---
 
-## GitHub Stats
+### [Programming Language Decision Tree](https://github.com/eagertowork/decision-tree)
+
+Decision Trees · Recommendation Logic
+
+A small application that uses decision-tree logic to recommend a programming language based on a user's preferences and goals.
+
+The project demonstrates:
+
+- Translating user requirements into structured decision rules
+- Applying algorithmic logic to a user-facing problem
+- Building a simple recommendation workflow
+
+---
+
+## Other Projects
+
+- **Zoorkhaneh Game** — Python, Pygame, and a genetic algorithm
+- **Student Management System** — Flutter and Java
+- **Snake Game** — C++
+- **[Personal Technical Blog](https://github.com/eagertowork/eagertowork.github.io)** — GitHub Pages and technical writing
+
+---
+
+## Current Learning Focus
+
+I am currently improving my knowledge in:
+
+- Backend architecture and system design
+- Database design and query optimization
+- Automated testing and maintainable code
+- Authentication and API security
+- Docker-based development and deployment
+- LLM inference, serving, and observability
+- Linux and embedded system development
+
+---
+
+## Education
+
+**B.Sc. in Computer Engineering**  
+Shahid Beheshti University, Tehran  
+2023 – Present
+
+Selected academic areas:
+
+- Advanced Programming
+- Artificial Intelligence
+- Computer Networks
+- Machine Learning
+- Linux Administration
+- Software Engineering
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eagertowork&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagertowork&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=eagertowork&show_icons=true&hide_border=true&rank_icon=github"
+    height="165"
+    alt="Javad's GitHub statistics"
+  />
 </p>
 
 ---
 
-## Goals
+## Let's Connect
 
-* Build stronger open-source projects in **AI, systems, and security**
-* Improve practical skills in **LLM infrastructure and performance optimization**
-* Contribute to meaningful technical repositories
-* Gain internship or professional experience in **AI, software engineering, data, or security-related roles**
-* Keep learning, building, and documenting my progress
+I am interested in internship and junior opportunities involving:
 
----
-
-## Contact
+- Backend software engineering
+- Python and Django development
+- AI application development
+- LLM infrastructure and RAG systems
+- Linux and systems engineering
 
 <p>
-  <a href="https://github.com/eagertowork">GitHub</a> •
+  <a href="mailto:javad.zare.z05@gmail.com">Email</a>
+  ·
   <a href="https://t.me/JZZMATH">Telegram</a>
+  ·
+  <a href="https://github.com/eagertowork">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Always learning, always building.</i>
+  <i>Learning by building, experimenting, and solving real engineering problems.</i>
 </p>
