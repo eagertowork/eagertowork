@@ -1,9 +1,11 @@
-<h1 align="center">Hi, I'm Javad 👋</h1>
+<h1 align="center">Hi, I'm Javad</h1>
 
-<h3 align="center">Backend & AI Software Engineering Enthusiast</h3>
+<h3 align="center">
+  Computer Engineering Student | Backend, AI & Linux Systems
+</h3>
 
 <p align="center">
-  Computer Engineering student at Shahid Beheshti University
+  Building reliable software and exploring intelligent, performance-oriented systems
 </p>
 
 <p align="center">
@@ -14,7 +16,7 @@
     <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://github.com/eagertowork?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
 </p>
 
@@ -22,39 +24,57 @@
 
 ## About Me
 
-I am a Computer Engineering undergraduate at **Shahid Beheshti University**, interested in backend development, AI infrastructure, and Linux-based systems.
+I am a Computer Engineering undergraduate at **Shahid Beheshti University**, focused on backend development, AI infrastructure, Linux, and systems engineering.
 
-I enjoy building practical software, experimenting with new technologies, and understanding how applications work beyond the user interface.
+My interests lie in designing reliable software, building data-driven applications, and understanding how systems operate beyond the application layer. I am particularly interested in the intersection of backend engineering, large language model infrastructure, operating systems, networking, and performance-oriented software.
 
-My current focus is becoming a stronger **backend and AI software engineer** by improving my knowledge of software architecture, databases, testing, deployment, and production-oriented AI systems.
-
-- Interested in backend and AI software engineering
-- Experienced with Python, Django REST Framework, PostgreSQL, and Linux
-- Exploring LLM serving, RAG systems, and inference infrastructure
-- Learning software architecture, testing, and deployment
-- Open to internship and junior software engineering opportunities
+I develop my skills through practical projects, technical experimentation, and continuous study of software architecture, databases, deployment, and system-level technologies.
 
 ---
 
-## Tech Stack
+## Technical Focus
 
-### Languages
+- Backend development and REST API design
+- Relational database design and data modeling
+- LLM serving and inference infrastructure
+- Retrieval-Augmented Generation systems
+- Linux administration and system-level development
+- Containerized development and deployment
+- Computer networking and secure communication
+- Maintainable software architecture and technical documentation
+
+---
+
+## Technologies
+
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart,javascript" alt="Programming languages" />
 </p>
 
-### Backend and Databases
+`Python` `C++` `C` `Java` `Dart` `JavaScript`
+
+### Backend and Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,postgres,docker" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=django,postgres,docker" alt="Backend and database technologies" />
 </p>
 
-### Systems and Tools
+`Django` `Django REST Framework` `PostgreSQL` `REST APIs` `Docker`
+
+### Linux and Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,bash" alt="Systems and tools" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github" alt="Linux and development tools" />
 </p>
+
+`Linux` `Bash` `Git` `GitHub` `OpenBMC`
+
+### AI Engineering
+
+`vLLM` `LlamaIndex` `RAG` `Embeddings` `Local LLM Serving`  
+`OpenAI-Compatible APIs` `Machine Learning` `Genetic Algorithms`
 
 ### Additional Technologies
 
@@ -62,29 +82,33 @@ My current focus is becoming a stronger **backend and AI software engineer** by 
   <img src="https://skillicons.dev/icons?i=flutter,html,css" alt="Additional technologies" />
 </p>
 
+`Flutter` `HTML` `CSS` `TCP/IP` `TLS`
+
 ---
 
-## Technical Interests
+## Areas of Interest
 
-| Area | Technologies and Topics |
+| Area | Topics |
 |---|---|
-| Backend Engineering | Python, Django REST Framework, REST APIs, authentication |
-| Databases | PostgreSQL, relational modeling, migrations |
-| AI Engineering | LLM serving, vLLM, RAG, embeddings, LlamaIndex |
-| Systems | Linux, Docker, Bash, OpenBMC |
-| Networking | TCP/IP, TLS, secure communication |
-| Software Engineering | Git, testing, documentation, maintainable code |
+| Backend Engineering | REST APIs, authentication, database design, application architecture |
+| AI Infrastructure | LLM serving, RAG, embeddings, inference optimization, observability |
+| Linux and Systems | Linux administration, embedded Linux, OpenBMC, system performance |
+| Networking | TCP/IP, TLS, secure communication, network fundamentals |
+| Software Engineering | Testing, documentation, maintainability, version control |
 
 ---
 
-## Currently Learning
+## Current Focus
+
+I am currently expanding my knowledge in:
 
 - Backend architecture and system design
 - Database design and query optimization
 - Automated testing and API security
 - Docker-based development and deployment
-- LLM inference and observability
-- Linux and embedded systems
+- LLM inference performance and observability
+- Linux internals and embedded Linux systems
+- Writing reliable, maintainable, and well-documented software
 
 ---
 
@@ -96,21 +120,13 @@ Shahid Beheshti University, Tehran
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=eagertowork&show_icons=true&hide_border=true"
     height="165"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagertowork&layout=compact&hide_border=true"
-    height="165"
-    alt="Most used languages"
+    alt="Javad's GitHub statistics"
   />
 </p>
 
@@ -127,5 +143,5 @@ Shahid Beheshti University, Tehran
 </p>
 
 <p align="center">
-  <i>Learning by building and solving real engineering problems.</i>
+  <i>Focused on building reliable software and understanding systems in depth.</i>
 </p>
