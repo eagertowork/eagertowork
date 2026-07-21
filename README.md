@@ -62,9 +62,3 @@ I am interested in building reliable software, understanding systems beyond the 
     src="https://raw.githubusercontent.com/eagertowork/eagertowork/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-<div align="center">
-
-<sub>Building reliable software and understanding systems in depth.</sub>
-
-</div>
